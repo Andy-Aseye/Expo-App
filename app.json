@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "blank-expo",
-    "slug": "blank-expo",
+    "slug": "blankApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,6 +18,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "ttpc.todoapp",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
